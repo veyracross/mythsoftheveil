@@ -1,4 +1,4 @@
-// Myths of the Veil: online settings. Paste your Supabase values here.
+// Myths of the Veil: online settings. Paste your Supabase values here.brooke test
 // Supabase dashboard -> Project Settings -> API: "Project URL" and the "anon public" key.
 // The anon key is meant to be public; the database rules (RLS) protect each keeper's row.
 window.MOTV_CONFIG = {
